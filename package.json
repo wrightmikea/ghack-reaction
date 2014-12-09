@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/wrightmikea/ghack-reaction/issues"
   },
-  "homepage": "https://github.com/wrightmikea/ghack-reaction"
+  "homepage": "https://github.com/wrightmikea/ghack-reaction",
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  }
 }
